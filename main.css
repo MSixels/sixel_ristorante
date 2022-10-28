@@ -1,0 +1,84 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.font-title {
+    font-family: 'BioRhyme', serif;
+}
+
+h1 {
+    border-bottom: 2px solid #CE2B37;
+}
+
+.navbar {
+    background-color: #009246;
+}
+
+.nav-link, 
+.navbar-brand {
+    color: #F1f2f1;
+}
+
+.nav-link:hover,
+.navbar-brand:hover {
+    color: #F1f2f1;
+}
+
+.nav-cardapio .nav-link:hover {
+    color: #009246;
+}
+
+
+
+.text-colored {
+    color: #009246;
+    border-bottom: 2px solid #CE2B37;
+}
+
+
+#cabecalho .nav .nav-link.active {
+    background-color: #f1f2f1;
+    color: #009246;
+    border-bottom: 2px solid #CE2B37;
+}
+
+.nav-cardapio .nav-link.active {
+    background-color: #009246;
+    color: #F1f2f1;
+    border-bottom: 2px solid #CE2B37;
+}
+
+.carousel-item img {
+    height: 760px;
+    width: 100%;
+}
+
+#sobre-o-restaurante,
+#cardapio {
+    background-color: #d8fadb;
+}
+
+textarea {
+    resize: none;
+}
+
+.btn {
+    background-color: #009246;
+    color: #F1f2f1;
+    border-bottom: 2px solid #CE2B37;
+}
+
+.btn:hover {
+    background-color: #CE2B37;
+    color: #F1f2f1;
+    border-bottom: 2px solid #009246;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
